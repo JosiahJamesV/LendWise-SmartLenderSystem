@@ -8,7 +8,7 @@ from joblib import load
 app = Flask(__name__)
 CORS(app)
 
-model = load('knn_model.joblib')
+model = load('xgboost_model.joblib')
 
 scaler = load('scaler.joblib')
 
