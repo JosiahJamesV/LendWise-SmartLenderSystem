@@ -19,31 +19,6 @@ User-friendly frontend built with React, providing a seamless and intuitive inte
 Form handling and validation made easy with the use of Formik and Yup frameworks.
 Flask server acts as a bridge between the frontend and the Python model, facilitating data processing and fetching predictions.
 Different classification models utilized for accurate loan eligibility predictions.
-Installation
-To run the Lendwise Smart Lender System on your local machine, follow these steps:
-
-Clone the repository:
-git clone https://github.com/your-username/lendwise.git
-
-Navigate to the Flask server directory:
-cd lendwise/flask-server
-
-Install the required Python dependencies:
-pip install -r requirements.txt
-
-Start the Flask server:
-python3 server.py
-
-Open a new terminal window and navigate to the React client directory:
-cd lendwise/client
-
-Install the required Node.js dependencies:
-npm install
-Start the React development server:
-npm start
-
-Open your web browser and access the application at http://localhost:3000.
-
 
 Usage
 - Fill in the loan application form with the necessary details.
