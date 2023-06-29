@@ -1,5 +1,11 @@
 Lendwise - Smart Lender System
 
+Team Members:
+Saumya Goel 
+Aryan Gudetti 
+Karthik G
+Josiah James 
+
 
 VIDEO DEMO LINK:
 https://drive.google.com/file/d/1E6hkmzHHDyKEzS6qokDRj6I_fWg_QfB7/view?usp=sharing
